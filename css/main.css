@@ -1,6 +1,6 @@
 h1 {
 	float: left;
-	font: 1em, 5em, 'impact';
+	font: normal, normal, 400, 1em, 5em, 'impact';
 	color: #FF0000;
 	background-image: url(../images/pawprint-logo.png); /*54x72*/
 	background-repeat: no-repeat;
@@ -20,6 +20,7 @@ nav li {
 
 nav li a {
 	color: #000000;
+	font-variant: small-caps;
 	font-weight: 500;
 	text-decoration: none;
 	padding: 0.375em;
