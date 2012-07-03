@@ -1,6 +1,6 @@
 h1 {
 	float: left;
-	font: 1em, 4.5em, impact, fantasy;
+	font: 1em, 4.5em, 'impact, fantasy';
 	color: #FF0000;
 	background-image: url(../images/pawprint-logo.png); /*54x72*/
 	background-repeat: no-repeat;
@@ -13,9 +13,13 @@ nav ul {
 	
 nav li {
 	float: right;
-	border-radius: 0.375em;
+	border-radius: 0.438em;
 	background-color: #FF0000;
-	padding: 0.375em;
+	margin: 0.375em;
 	}
 
+nav li a {
+	color: #000000;
+	padding: 0.375em;
+	}
 	
