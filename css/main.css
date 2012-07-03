@@ -5,6 +5,7 @@ h1 {
 	background-image: url(../images/pawprint-logo.png); /*54x72*/
 	background-repeat: no-repeat;
 	background-position: 0, 0;
+	overflow: visible;
 	}
 	
 nav ul {
@@ -28,4 +29,8 @@ nav li a {
 
 #main-image {
 	float: right;
+	}
+
+#about {
+	clear: both;
 	}
