@@ -1,9 +1,7 @@
 h1 {
 	background-image: url(../images/pawprint-logo.png); /*54x72*/
 	background-repeat: no-repeat;
-	background-position: 0.375em;
 	line-height: 4.5em;
-	text-align: right;
 	}
 	
 nav ul {
