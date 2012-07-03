@@ -1,7 +1,7 @@
-#nav li {
+nav li {
 	display: inline;
 	}
-#nav li a {
+nav li a {
 	background-color: #FF0;
 	padding: 0.375em;
 	border-radius: 0.375em;
