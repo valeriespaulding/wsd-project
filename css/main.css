@@ -1,9 +1,9 @@
 #nav li {
-	display: inline,
+	display: inline;
 	}
 #nav li a {
-	border-radius: 0.375em
-	background-color: #FF0
-	padding: 0.375em
+	background-color: #FF0;
+	padding: 0.375em;
+	border-radius: 0.375em;
 	}
 	
