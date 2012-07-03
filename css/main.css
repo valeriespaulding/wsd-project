@@ -25,4 +25,7 @@ nav li a {
 	text-decoration: none;
 	padding: 0.375em;
 	}
-	
+
+#main-image {
+	float: right;
+	}
