@@ -29,13 +29,12 @@ h1 {
 	letter-spacing: 0.125em;
 	word-spacing: 0.188em;
 	font-weight: 400;
-	font-size: 3em;
+	font-size: 3.125em;
 	line-height: 4em;
 	font-family: 'impact';
 	color: #FF0000;
 	background-image: url(../images/pawprint-logo.png); /*54x72*/
 	background-repeat: repeat-x;
-	padding: 0.375em;
 	}
 
 #main-image {
