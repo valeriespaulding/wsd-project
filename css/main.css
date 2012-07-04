@@ -36,6 +36,7 @@ nav li a:hover {
 	}
 
 h1 {
+	width: 50%;
 	float: left;
 	clear: right;
 	letter-spacing: 0.125em;
