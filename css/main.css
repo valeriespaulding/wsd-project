@@ -82,7 +82,9 @@ h1 {
 	clear: both;
 	background-color: rgba(176,176,176,0.5);
 	padding: 0.188em 0.188em;
-	column-count: 3
+	-moz-column-count: 3; /* Firefox */
+	-webkit-column-count: 3; /* Safari */
+	column-count: 3;
 	text-align: left;
 	}	
 
