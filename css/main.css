@@ -63,6 +63,7 @@ h1 {
 	clear: both;
 	letter-spacing: none;
 	word-spacing: none;
+	font-variant: small-caps;
 	font-weight: 400;
 	font-size: 0.2em;
 	line-height: 0.2em;
@@ -86,7 +87,7 @@ h2 {
 	font-weight: 500em;
 	font-size: 1.25em;
 	font-family: 'impact';
-	color: #FFFFFF;
+	color: #000000;
 	}
 	
 img {
