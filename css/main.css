@@ -2,20 +2,7 @@ body {
 	width: 43.75em;
 	margin: 0 auto;
 	}
-h1 {
-	float: left;
-	letter-spacing: 0.125em;
-	word-spacing: 0.188em;
-	font-weight: 400;
-	font-size: 3em;
-	line-height: 4em;
-	font-family: 'impact';
-	color: #FF0000;
-	background-image: url(../images/pawprint-logo.png); /*54x72*/
-	background-repeat: no-repeat;
-	background-position: 0 0 0 4.5em;
-	}
-	
+		
 nav ul {
 	list-style: none;
 	}
@@ -34,6 +21,21 @@ nav li a {
 	background-color: #FF0000;
 	margin: 0.25em;
 	padding: 0.375em;
+	}
+
+h1 {
+	float: left;
+	clear: right;
+	letter-spacing: 0.125em;
+	word-spacing: 0.188em;
+	font-weight: 400;
+	font-size: 3em;
+	line-height: 4em;
+	font-family: 'impact';
+	color: #FF0000;
+	background-image: url(../images/pawprint-logo.png); /*54x72*/
+	background-repeat: no-repeat;
+	background-position: 0 0 0 4.5em;
 	}
 
 #main-image {
