@@ -93,9 +93,9 @@ h2 {
 	clear: both;
 	background-color: rgba(176,176,176,0.5);
 	padding: 0.188em 0.188em;
-	-moz-column-count: 3; /* Firefox */
-	-webkit-column-count: 3; /* Safari */
-	column-count: 3;
+	-moz-column-count: auto; /* Firefox */
+	-webkit-column-count: auto; /* Safari */
+	column-count: auto;
 	text-align: left;
 	}	
 
