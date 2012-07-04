@@ -50,6 +50,7 @@ h1 {
 
 h2 {
 	float: left;
+	clear: left;
 	font-size: 1.125em;
 	font-family: 'verdana';
 	color: #000000;
