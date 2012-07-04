@@ -35,6 +35,7 @@ h1 {
 	color: #FF0000;
 	background-image: url(../images/pawprint-logo.png); /*54x72*/
 	background-repeat: repeat-x;
+	padding: 0.375em;
 	}
 
 #main-image {
