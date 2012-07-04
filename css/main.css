@@ -42,7 +42,7 @@ h1 {
 	word-spacing: 0.188em;
 	font-weight: 550;
 	font-size: 3.125em;
-	line-height: 4em;
+	line-height: 3.125em;
 	font-family: 'impact';
 	color: #FF0000;
 	text-shadow: -2px -2px -2px #FFFFFF;
@@ -50,7 +50,7 @@ h1 {
 
 h2 {
 	float: left;
-	clear: left;
+	clear: right;
 	font-size: 1.125em;
 	font-family: 'verdana';
 	color: #000000;
