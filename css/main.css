@@ -46,6 +46,13 @@ h1 {
 	font-family: 'impact';
 	color: #FF0000;
 	text-shadow: -2px -2px -2px #FFFFFF;
+	}
+
+h2 {
+	float: left;
+	font-size: 1.125em;
+	font-family: 'verdana';
+	color: #000000;
 	background-image: url(../images/pawprint-logo.png); /*54x72*/
 	background-position: right center;
 	background-repeat: no-repeat;
