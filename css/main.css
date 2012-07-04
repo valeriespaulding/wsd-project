@@ -86,7 +86,7 @@ h1 {
 	}	
 
 h2 {
-	opacity: 0;
+	opacity: 1;
 	text-decoration: underline;
 	letter-spacing: 0.125em; 
 	font-variant: small-caps;
@@ -97,12 +97,13 @@ h2 {
 	}
 
 p {
-	opacity: 0;
+	opacity: 1;
 	font-size: 0.75em;
 	font-family: 'verdana';
 	
 	
 img {
+	opacity: 1;
 	border: 0.375em solid #000000;
 	border-radius: 0.438em;
 	}
