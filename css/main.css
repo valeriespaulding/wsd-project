@@ -78,6 +78,17 @@ h1 {
 	clear: right;
 	}
 
+h2 {
+	clear: both;
+	text-decoration: underline;
+	letter-spacing: 0.125em; 
+	font-variant: small-caps;
+	font-weight: 500em;
+	font-size: 1.25em;
+	font-family: 'impact';
+	color: #000000;
+	}
+
 #about {
 	clear: both;
 	background-color: rgba(176,176,176,0.5);
@@ -87,16 +98,6 @@ h1 {
 	column-count: 3;
 	text-align: left;
 	}	
-
-h2 {
-	text-decoration: underline;
-	letter-spacing: 0.125em; 
-	font-variant: small-caps;
-	font-weight: 500em;
-	font-size: 1.25em;
-	font-family: 'impact';
-	color: #000000;
-	}
 
 p {
 	font-size: 0.75em;
