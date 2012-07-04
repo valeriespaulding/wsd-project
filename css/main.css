@@ -54,9 +54,14 @@ h1 {
 #sub-logo {
 	float: left;
 	clear: both;
+	letter-spacing: none;
+	word-spacing: none;
+	font-weight: 400;
 	font-size: 1.125em;
+	line-height: 1.125em;
 	font-family: 'verdana';
 	color: #000000;
+	text-shadow: none;
 	}
 
 #main-image {
