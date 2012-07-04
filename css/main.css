@@ -101,6 +101,7 @@ h2 {
 	text-align: left;
 	padding: 0.5em;
 	margin: 0 auto;
+	overflow: auto;
 	}
 
 #article-photo {
