@@ -34,16 +34,19 @@ h1 {
 	font-family: 'impact';
 	color: #FF0000;
 	background-image: url(../images/pawprint-logo.png); /*54x72*/
-	background-position: 80 0 0 70 0;
+	background-position: 50% 75%;
 	background-repeat: no-repeat;
 	}
 
 #main-image {
 	float: right;
 	clear: right;
-	border-radius: 0.438em;
 	}
 
 #about {
 	clear: both;
+	}
+	
+img {
+	border-radius: 0.438em;
 	}
