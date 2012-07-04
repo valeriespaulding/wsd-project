@@ -63,7 +63,6 @@ h1 {
 	clear: both;
 	letter-spacing: none;
 	word-spacing: none;
-	font-variant: small-caps;
 	font-weight: 400;
 	font-size: 0.2em;
 	line-height: 0.2em;
@@ -84,6 +83,7 @@ h1 {
 h2 {
 	text-decoration: underline;
 	letter-spacing: 0.125em; 
+	font-variant: small-caps;
 	font-weight: 500em;
 	font-size: 1.25em;
 	font-family: 'impact';
