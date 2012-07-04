@@ -91,12 +91,14 @@ h2 {
 
 #about {
 	clear: both;
+	width: 80%;
 	background-color: rgba(176,176,176,0.5);
 	padding: 0.188em 0.188em;
-	-moz-column-count: auto; /* Firefox */
-	-webkit-column-count: auto; /* Safari */
-	column-count: auto;
+	-moz-column-count: 3; /* Firefox */
+	-webkit-column-count: 3; /* Safari */
+	column-count: 3;
 	text-align: left;
+	margin: 0 auto;
 	}	
 
 p {
