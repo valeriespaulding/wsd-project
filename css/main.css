@@ -81,11 +81,12 @@ h1 {
 	}	
 
 h2 {
-	text-decoration: underline; 
+	text-decoration: underline;
+	letter-spacing: 0.125em; 
 	font-weight: 500em;
 	font-size: 1.25em;
 	font-family: 'impact';
-	color: #000000;
+	color: #FFFFFF;
 	}
 	
 img {
