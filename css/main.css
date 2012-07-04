@@ -92,6 +92,7 @@ h2 {
 #about {
 	clear: both;
 	width: 80%;
+	height: 18.375em;
 	background-color: rgba(176,176,176,0.5);
 	padding: 0.188em 0.188em;
 	-moz-column-count: 3; /* Firefox */
