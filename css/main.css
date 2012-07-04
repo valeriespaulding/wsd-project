@@ -82,6 +82,8 @@ h1 {
 	clear: both;
 	background-color: rgba(176,176,176,0.5);
 	padding: 0.188em 0.188em;
+	font-size: 0.75em;
+	font-family: 'verdana';
 	}	
 
 h2 {
@@ -92,11 +94,6 @@ h2 {
 	font-size: 1.25em;
 	font-family: 'impact';
 	color: #000000;
-	}
-
-p {
-	font-size: 0.75em;
-	font-family: 'verdana';
 	}
 	
 img {
