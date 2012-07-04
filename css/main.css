@@ -43,7 +43,7 @@ h1 {
 	line-height: 4em;
 	font-family: 'impact';
 	color: #FF0000;
-	text-shadow: -2px -2px -2px #FFFFFF;
+	text-shadow: 2px 2px 2px #FFFFFF;
 	background-image: url(../images/pawprint-logo.png); /*54x72*/
 	background-position: right center;
 	background-repeat: no-repeat;
