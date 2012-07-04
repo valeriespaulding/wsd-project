@@ -46,6 +46,9 @@ h1 {
 	font-family: 'impact';
 	color: #FF0000;
 	text-shadow: -2px -2px -2px #FFFFFF;
+	background-image: url(../images/pawprint-logo.png); /*54x72*/
+	background-position: right center;
+	background-repeat: no-repeat;
 	}
 
 #sub-logo {
@@ -59,9 +62,6 @@ h1 {
 	font-family: 'verdana';
 	color: #000000;
 	text-shadow: none;
-	background-image: url(../images/pawprint-logo.png); /*54x72*/
-	background-position: right center;
-	background-repeat: no-repeat;
 	}
 
 #main-image {
