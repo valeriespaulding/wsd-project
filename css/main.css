@@ -38,12 +38,12 @@ h1 {
 	clear: right;
 	letter-spacing: 0.125em;
 	word-spacing: 0.188em;
-	opacity: 0.5;
 	font-weight: 400;
 	font-size: 3.125em;
 	line-height: 4em;
 	font-family: 'impact';
 	color: #FF0000;
+	text-shadow: -2px -2px -2px #FFFFFF;
 	background-image: url(../images/pawprint-logo.png); /*54x72*/
 	background-position: right center;
 	background-repeat: no-repeat;
