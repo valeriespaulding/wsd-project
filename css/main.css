@@ -97,7 +97,8 @@ h2 {
 	-moz-column-count: 3; /* Firefox */
 	-webkit-column-count: 3; /* Safari */
 	column-count: 3;
-	text-align: center;
+	text-align: left;
+	padding: 0.375em;
 	margin: 0 auto;
 	}	
 
