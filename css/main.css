@@ -79,6 +79,14 @@ h1 {
 #about {
 	clear: both;
 	}	
+
+h2 {
+	text-decoration: underline; 
+	font-weight: 500em;
+	font-size: 1.25em;
+	font-family: 'impact';
+	color: #000000;
+	}
 	
 img {
 	border: 0.375em solid #000000;
