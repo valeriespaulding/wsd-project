@@ -82,9 +82,11 @@ h1 {
 	clear: both;
 	background-color: #B0B0B0;
 	opacity: 0.5;
+	padding: 0.375em;
 	}	
 
 h2 {
+	opacity: 0;
 	text-decoration: underline;
 	letter-spacing: 0.125em; 
 	font-variant: small-caps;
@@ -93,6 +95,12 @@ h2 {
 	font-family: 'impact';
 	color: #000000;
 	}
+
+p {
+	opacity: 0;
+	font-size: 0.75em;
+	font-family: 'verdana';
+	
 	
 img {
 	border: 0.375em solid #000000;
