@@ -34,8 +34,7 @@ h1 {
 	font-family: 'impact';
 	color: #FF0000;
 	background-image: url(../images/pawprint-logo.png); /*54x72*/
-	background-repeat: no-repeat;
-	background-position: 0 0 0 4.5em;
+	background-repeat: repeat-x;
 	}
 
 #main-image {
