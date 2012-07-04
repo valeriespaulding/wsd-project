@@ -46,17 +46,17 @@ h1 {
 	font-family: 'impact';
 	color: #FF0000;
 	text-shadow: -2px -2px -2px #FFFFFF;
+	background-image: url(../images/pawprint-logo.png); /*54x72*/
+	background-position: right center;
+	background-repeat: no-repeat;
 	}
 
-h2 {
+#sub-logo {
 	float: left;
 	clear: both;
 	font-size: 1.125em;
 	font-family: 'verdana';
 	color: #000000;
-	background-image: url(../images/pawprint-logo.png); /*54x72*/
-	background-position: right center;
-	background-repeat: no-repeat;
 	}
 
 #main-image {
