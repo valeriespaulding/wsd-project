@@ -1,6 +1,8 @@
 body {
 	width: 45em;
 	margin: 0 auto;
+	background-image: url(../images/pixel-background.png);
+	background-repeat: repeat-x repeat-y;
 	}
 		
 nav ul {
