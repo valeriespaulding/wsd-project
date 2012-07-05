@@ -120,12 +120,12 @@ img {
 	}
 
 a:link {
-	color: #FF0000;
-	text-decoration: none;
+	color: #FFFFFF;
+	text-decoration: underline;
 	}
 
 a:visited {
-	color: #FFFFFF;
+	color: #FF0000;
 	text-decoration: none;
 	}
 	
