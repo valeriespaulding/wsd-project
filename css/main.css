@@ -114,6 +114,10 @@ ol {
 	font-family: 'verdana';
 	}
 
+#gallery {
+	width: 100%;
+	}
+	
 #gallery ul {
 	list-style: none;
 	}
