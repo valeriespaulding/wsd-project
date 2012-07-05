@@ -133,7 +133,7 @@ img {
 img, p a:link {
 	color: #FFFFFF;
 	text-decoration: none;
-	text-shadow: 2px 2px 2px #000000;
+	text-shadow: 1px 1px 1px #000000;
 	}
 
 img, p a:visited {
@@ -144,5 +144,5 @@ img, p a:visited {
 img, p a:hover {
 	color: #B0B0B0;
 	text-decoration: none;
-	text-shadow: 2px 2px 2px #000000;
+	text-shadow: 1px 1px 1px #000000;
 	}
