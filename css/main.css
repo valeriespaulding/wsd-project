@@ -113,6 +113,14 @@ ol {
 	font-size: 0.75em;
 	font-family: 'verdana';
 	}
+
+#gallery ul {
+	list-style: none;
+	}
+
+#gallery ul li {
+	display: inline;
+	}
 	
 img {
 	border: 0.375em solid #000000;
