@@ -16,6 +16,7 @@ nav li {
 	}
 
 nav li a {
+	color: #000000;
 	font-variant: small-caps;
 	font-weight: 400;
 	font-size: 1.25em;
@@ -23,11 +24,21 @@ nav li a {
 	display: block;
 	border-radius: 0.438em;
 	background-color: #FF0000;
-	background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#ffffff)); /* for webkit browsers */
-	background: -moz-linear-gradient(top,  #000000,  #ffffff); /* for firefox 3.6+ */ 
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#000000', endColorstr='#FFFFFF'); /* for IE */
+	background: -webkit-gradient(linear, left top, left bottom, from(#B0B0B0), to(#ffffff)); /* for webkit browsers */
+	background: -moz-linear-gradient(top,  #B0B0B0,  #ffffff); /* for firefox 3.6+ */ 
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#B0B0B0', endColorstr='#FFFFFF'); /* for IE */
 	margin: 0.25em;
 	padding: 0.375em;
+	}
+
+nav li a:visited {
+	color: #FFFFFF;
+	text-shadow: 2px 2px 2px #000000;
+	}
+
+nav li a:hover {
+	color: #FF0000;
+	text-shadow: 2px 2px 2px #FFFFFF;
 	}
 
 h1 {
@@ -119,20 +130,20 @@ img {
 	border-radius: 0.438em;
 	}
 
-a:link {
+img, p a:link {
 	color: #FFFFFF;
-	text-decoration: underline;
+	text-decoration: none;
 	text-shadow: 2px 2px 2px #000000;
 	}
 
-a:visited {
+img, p a:visited {
 	color: #FF0000;
 	text-decoration: none;
 	text-shadow: 2px 2px 2px #000000;
 	}
 	
-a:hover {
+img, p a:hover {
 	color: #B0B0B0;
-	text-decoration: underline;
+	text-decoration: none;
 	text-shadow: 2px 2px 2px #000000;
 	}
