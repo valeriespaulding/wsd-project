@@ -139,7 +139,6 @@ img, p a:link {
 img, p a:visited {
 	color: #FF0000;
 	text-decoration: none;
-	text-shadow: 2px 2px 2px #000000;
 	}
 	
 img, p a:hover {
