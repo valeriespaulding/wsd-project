@@ -71,6 +71,7 @@ h1 {
 	font-family: 'verdana';
 	color: #000000;
 	text-shadow: none;
+	position: left center;
 	}
 
 #main-image {
@@ -129,4 +130,19 @@ ol {
 img {
 	border: 0.375em solid #000000;
 	border-radius: 0.438em;
+	}
+
+a:link {
+	color: #FF0000;
+	text-decoration: none;
+	}
+
+a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+	}
+	
+a:hover {
+	color: #B0B0B0;
+	text-decoration: underline;
 	}
