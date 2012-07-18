@@ -98,6 +98,10 @@ h2 {
 	-webkit-column-count: 3; /* Safari */
 	column-count: 3;
 	column-width: auto;
+	column-gap: 1em;
+	column-rule-width: 1em;
+	column-rule-style: solid;
+	column-rule-color: black;
 	text-align: left;
 	padding: 0.5em;
 	margin: 0 auto;
