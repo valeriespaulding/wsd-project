@@ -210,4 +210,8 @@ h1 {
 #about {
 	display: inline;
 	}
+	
+#about-image {
+	width: 30%;
+	}
 	}
