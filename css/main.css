@@ -207,6 +207,10 @@ h1 {
 	line-height: 2em;
 	}
 
+#about {
+	display: inline;
+	}
+	
 #about-image {
 	width: 25%;
 	}
