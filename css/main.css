@@ -75,6 +75,11 @@ h1 {
 #main-image {
 	float: right;
 	clear: right;
+	width: 50%;
+	}
+
+#main-image img {
+	max-width: 100%;
 	}
 
 h2 {
@@ -90,7 +95,7 @@ h2 {
 
 #about {
 	clear: both;
-	width: 90%;
+	width: 90%; /* 720px */
 	height: 19em;
 	background-color: rgba(176,176,176,0.5);
 	padding: 0.188em 0.188em;
@@ -99,14 +104,19 @@ h2 {
 	column-count: 3;
 	column-width: auto;
 	column-gap: 1em;
-	column-rule-width: 1em;
-	column-rule-style: solid;
-	column-rule-color: black;
 	text-align: left;
 	padding: 0.5em;
 	margin: 0 auto;
 	overflow: auto;
 	}	
+
+#about-image {
+	width: 20.833333333333%;
+	}
+	
+#about-image img {
+	max-width: 100%;
+	}
 
 p {
 	font-size: 0.75em;
