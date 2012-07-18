@@ -208,6 +208,6 @@ h1 {
 	}
 
 #about {
-	column-count: none;
+	column-count: 0;
 	}
 	}
