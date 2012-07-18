@@ -56,7 +56,7 @@ h1 {
 	background-image: url(../images/pawprint-logo.png); /*54x72*/
 	background-position: right center;
 	background-repeat: no-repeat;
-	padding: 0.375em;
+	margin: 0.375em;
 	}
 
 #sub-logo {
@@ -71,14 +71,14 @@ h1 {
 	color: #000000;
 	text-shadow: none;
 	position: left center;
-	padding: 0.375em;
+	margin: 0.375em;
 	}
 
 #main-image {
 	float: right;
 	clear: right;
 	width: 50%;
-	padding: 0.375em;
+	margin: 0.375em;
 	}
 
 #main-image img {
@@ -94,7 +94,7 @@ h2 {
 	font-size: 1.25em;
 	font-family: 'impact';
 	color: #000000;
-	padding: 0.375em;
+	margin: 0.375em;
 	}
 
 #about {
@@ -165,4 +165,21 @@ img, p a:hover {
 	color: #B0B0B0;
 	text-decoration: none;
 	text-shadow: 1px 1px 1px #000000;
+	}
+
+/* Media Queries */
+
+/* Tablet portrait size to standard 960 */
+@media screen and (min-width: 768px) and (max-width: 969px) {
+
+	}
+	
+/* Mobile landscape size to tablet portrait */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	}
+	
+/* Mobile portrait size to mobile landscape size */
+@media only screen and (max-width: 479px) {
+
 	}
