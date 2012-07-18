@@ -111,7 +111,8 @@ h2 {
 	}	
 
 #about-image {
-	width: 50%;
+	width: 60%;
+	margin: 0 auto;
 	}
 	
 #about-image img {
