@@ -180,6 +180,9 @@ h1 {
 #sub-logo {
 	line-height: 0.2em;
 	}
+
+/* I'll be adding more adjustments when we enter the table and form, but these are the only
+adjustments I wanted to make for the items that are currently on the page */
 	}
 	
 /* Mobile landscape size to tablet portrait */
@@ -193,6 +196,9 @@ h1 {
 #sub-logo {
 	line-height: 0.2em;
 	}
+	
+/* I'll be adding more adjustments when we enter the table and form, but these are the only
+adjustments I wanted to make for the items that are currently on the page */
 	}
 	
 /* Mobile portrait size to mobile landscape size */
