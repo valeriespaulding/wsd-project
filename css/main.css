@@ -208,6 +208,8 @@ h1 {
 	}
 
 #about {
+	-moz-column-count: 0; /* Firefox */
+	-webkit-column-count: 0;
 	column-count: 0;
 	}
 	}
