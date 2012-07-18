@@ -209,12 +209,5 @@ h1 {
 
 #about {
 	display: inline;
-	width: 90%; /* 720px */
-	background-color: rgba(176,176,176,0.5);
-	padding: 0.188em 0.188em;
-	}
-	
-#about-image {
-	width: 30%;
 	}
 	}
