@@ -202,15 +202,16 @@ h1 {
 	font-size: 2em;
 	line-height: 2em;
 	}
-	
-#sub-logo {
-	line-height: 2em;
-	}
 
 #about {
 	display: inline;
 	background-color: rgba(176,176,176,0.5);
 	padding: 0.188em 0.188em;
+	}
+	
+#sub-logo {
+	line-height: 2em;
+	}
 	}
 
 #about-image {
