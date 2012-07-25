@@ -171,7 +171,6 @@ table {
 	border-collapse: collapse;
 	font-family: 'verdana';
 	background-color: rgba(176,176,176,0.5);
-	margin: 0 auto;
 	}
 	
 td {
@@ -194,10 +193,12 @@ th {
 	
 #join {
 	float: left;
+	margin: 0 auto;
 	}
 	
 #contact {
 	float: right;
+	margin: 0 auto;
 	}
 	
 input:focus {
@@ -206,6 +207,7 @@ input:focus {
 
 footer {
 	clear: both;
+	margin: 0 auto;
 	}
 
 
