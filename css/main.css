@@ -200,6 +200,9 @@ th {
 #contact {
 	float: left;
 	margin-left: 3em;
+	}
+
+form {
 	font-size: 0.75em;
 	font-family: 'verdana';
 	}
