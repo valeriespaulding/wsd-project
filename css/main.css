@@ -169,18 +169,24 @@ img, p a:hover {
 
 table {
 	border-collapse: collapse;
+	font-family: 'verdana';
+	background-color: rgba(176,176,176,0.5);
 	}
 	
 td {
 	border: 1px solid #000000;
 	text-align: center;
-	padding: 3em;
+	padding: 0.5em;
 	}
 	
 th {
 	text-align: center;
 	border: 1px solid #000000;
-	padding: 3em;
+	padding: 0.5em;
+	}
+
+.odd {
+	background-color: rgba(255,255,255,0.5);
 	}
 
 /* Media Queries */
