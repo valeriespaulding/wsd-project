@@ -194,6 +194,10 @@ th {
 aside {
 	margin: 0 auto;
 	}
+
+#join {
+	width: 50%;
+	}
 	
 #contact {
 	float: left;
