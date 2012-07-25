@@ -200,7 +200,8 @@ aside {
 	}
 	
 #contact {
-	float: right;
+	float: left;
+	margin-left: 3em;
 	}
 	
 input:focus {
