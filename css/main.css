@@ -171,6 +171,7 @@ table {
 	border-collapse: collapse;
 	font-family: 'verdana';
 	background-color: rgba(176,176,176,0.5);
+	margin: 0 auto;
 	}
 	
 td {
@@ -190,6 +191,15 @@ th {
 .odd {
 	background-color: rgba(255,255,255,0.5);
 	}
+	
+#contact {
+	float: left;
+	}
+	
+input:focus {
+	background: rgba(176,176,176,0.5);
+	}
+
 
 /* Media Queries */
 
