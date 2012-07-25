@@ -190,15 +190,17 @@ th {
 .odd {
 	background-color: rgba(255,255,255,0.5);
 	}
+
+aside {
+	margin: 0 auto;
+	}
 	
 #join {
 	float: left;
-	margin: 0 auto;
 	}
 	
 #contact {
 	float: right;
-	margin: 0 auto;
 	}
 	
 input:focus {
@@ -207,7 +209,6 @@ input:focus {
 
 footer {
 	clear: both;
-	margin: 0 auto;
 	}
 
 
