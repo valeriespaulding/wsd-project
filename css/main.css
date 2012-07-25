@@ -167,6 +167,22 @@ img, p a:hover {
 	text-shadow: 1px 1px 1px #000000;
 	}
 
+table {
+	border-collapse: collapse;
+	}
+	
+td {
+	border: 1px solid #000000;
+	text-align: center;
+	padding: 3em;
+	}
+	
+th {
+	text-align: center;
+	border: 1px solid #000000;
+	padding: 3em;
+	}
+
 /* Media Queries */
 
 /* Tablet portrait size to standard 960 */
