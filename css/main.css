@@ -192,11 +192,11 @@ th {
 	}
 	
 aside {
-	float: left;
 	margin: 0 auto;
 	}
 	
 #contact {
+	float: left;
 	margin: 3em;
 	}
 	
