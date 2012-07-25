@@ -51,15 +51,66 @@
 		</section>
 		
 		<div id="join">
-			<h2>Join the Family</h2>
-			<p>This will be my table with reasons to join: receive updates on newest photos added, add your own photos, enter your photos to be a cutie of the month, etc.</p>
+		<h2>Join the Family!</h2>
+			<table summary="Becoming a Member">
+				<tr>
+					<th>Reasons to Become a Member</th>
+				</tr>
+				<tr class="odd">
+					<td>Get Updates on New Content</td>
+				</tr>
+				<tr>
+					<td>Create Your Own Page</td>
+				</tr>
+				<tr class="odd">
+					<td>Add Your Own Photos</td>
+				</tr>
+				<tr>
+					<td>Enter to Be a Cutie of the Month</td>
+				</tr>
+			</table>
 		</div>
 		
 		<div id="contact">
-			<h2>Contact Us</h2>
-			<p>this will be a form with name, email and message fields</p>
+			<h2>Contact Us &amp; Sign Up</h2>
+			<form method="get" action="mailto:valspaulding17@yahoo.com">
+			
+				<div>
+					<label for="name-first">First Name</label>
+					<input type="text" name="name-first" id="name-first"/>
+				</div>
+				
+				<div>
+					<label for="name-last">Last Name</label>
+					<input type="text" name="name-last" id="name-last"/>
+				</div>
+				
+				<div>
+					<label for="email">Email Address</label>
+					<input type="text" name="email" id="email"/>
+				</div>
+				
+				<div>
+					<label for="regarding">Regarding</label>
+				</div>
+				
+				<div>
+					<select name="regarding" id="regarding">
+						<option>Joining</option>
+						<option>Concern</option>
+					</select>
+				</div>
+				
+				<div>
+					<label for="message">Message</label>
+					<textarea rows="10" cols="20" name="message" id="message"></textarea>
+				</div>
+				
+				<input type="submit"/>
+				
+			</form>
 		</div>
-	
+		
 		<footer>
 			<p>All Rights Reserved. Created by: Valerie Spaulding. June 2012.</p>
 		</footer>
