@@ -175,14 +175,14 @@ table {
 	
 td {
 	border: 1px solid #000000;
-	font-size: 0.75em;
 	text-align: center;
+	font-size: 0.75em;
 	padding: 0.5em;
 	}
 	
 th {
-	font-size: 0.75em;
 	text-align: center;
+	font-size: 0.75em;
 	border: 1px solid #000000;
 	padding: 0.5em;
 	}
