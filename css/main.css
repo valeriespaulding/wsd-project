@@ -193,14 +193,13 @@ th {
 
 #join {
 	float: left;
-	width: 45%;
-	margin: 0 auto;
+	width: 50%;
+	margin-left: 3em;
 	}
 	
 #contact {
 	float: left;
-	width: 45%;
-	margin: 0 auto;
+	margin-left: 3em;
 	}
 	
 input:focus {
