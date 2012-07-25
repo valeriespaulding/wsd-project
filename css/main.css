@@ -190,18 +190,14 @@ th {
 .odd {
 	background-color: rgba(255,255,255,0.5);
 	}
-
-aside {
-	margin: 3em;
-	}
 	
-#join {
+aside {
 	float: left;
+	margin: 0 auto;
 	}
 	
 #contact {
-	float: left;
-	margin-left: 3em;
+	margin: 3em;
 	}
 	
 input:focus {
