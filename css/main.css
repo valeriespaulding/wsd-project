@@ -169,18 +169,19 @@ img, p a:hover {
 
 table {
 	border-collapse: collapse;
-	font-size: 0.75em;
 	font-family: 'verdana';
 	background-color: rgba(176,176,176,0.5);
 	}
 	
 td {
 	border: 1px solid #000000;
+	font-size: 0.75em;
 	text-align: center;
 	padding: 0.5em;
 	}
 	
 th {
+	font-size: 0.75em;
 	text-align: center;
 	border: 1px solid #000000;
 	padding: 0.5em;
